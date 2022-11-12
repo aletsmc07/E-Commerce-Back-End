@@ -33,7 +33,9 @@ You need to install previously the following dependencies to run it:
 - MySQL
 - Insomnia (to see the results).
 
-IMPORTANT: Before running the app, edit the ".env" file with your USER (root) and PASSWORD (your password on MySQL) to continue correctly with the deployment.
+IMPORTANT: Before running the app, create the ".env" file with your USER (root) and PASSWORD (your password on MySQL) to continue correctly with the deployment.
+![image](https://user-images.githubusercontent.com/107447818/201497654-10f6b12c-ec11-4f00-a365-90441a78b67b.png)
+
 
 After that, follow the next steps:
 - Inside the main folder run the terminal and type: npm install (to install all dependencies).
